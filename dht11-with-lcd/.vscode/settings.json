@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/gergelymeszaros/.platformio/penv/bin:/Users/gergelymeszaros/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Library/Ballerina/ballerina-1.0.1/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
