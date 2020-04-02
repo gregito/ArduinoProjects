@@ -123,7 +123,7 @@ void configureSDCard() {
 }
 
 void writeDataToSDCard(String data) {
-  File dataFile = SD.open("datalog.txt", FILE_WRITE);
+  File dataFile = SD.open(logFileName.c_str(), FILE_WRITE);
    if (dataFile)
    {
     dataFile.println(data);
